@@ -1,17 +1,8 @@
-.media-object {
-  width: 150px;
-}
-.page-header {
-  color: blue;
-}
-.col3 {
-  color: black;
-}
-.col3{
-    background: #6BC0FF;
-    text-align: center;
-}
-
-.col4 {
+body {
+    background-image: url("..css/Vogue-3.jpg");
+    background-color: #cccccc;
 
 }
+ .page-header {
+   color: blue;
+ }
