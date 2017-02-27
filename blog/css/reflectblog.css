@@ -1,7 +1,8 @@
-body {
-    background-image: url("..css/Vogue-3.jpg");
-    background-color: #cccccc;
 
+body  {
+  background-image: url("../Vogue-3.jpg");
+  background-color: #cccccc;
+  max-width: 100%;
 }
  .page-header {
    color: blue;
