@@ -1,6 +1,15 @@
 
+body {
+  width: 100%;
+    background-image: url("rsz_vogue-3.jpg");
+}
 
 h1 {
     -webkit-box-reflect: below;
-    color: silver;
+    color: white;
+    font-size: 70px;
+}
+
+p {
+  color: white;
 }
