@@ -1,16 +1,6 @@
 
-body  {
-  background-image: url("../Vogue-3.jpg");
-  background-color: #cccccc;
-  max-width: 100%;
+
+h1 {
+    -webkit-box-reflect: below;
+    color: silver;
 }
- .page-header {
-   color: blue;
- }
- html {
-     background: url(Vogue-3.jpg) no-repeat center center fixed;
-     -webkit-background-size: cover;
-     -moz-background-size: cover;
-     -o-background-size: cover;
-     background-size: cover;
- }

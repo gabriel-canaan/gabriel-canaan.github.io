@@ -1,22 +1,17 @@
-.media-object {
-  width: 150px;
+body {
+    background-image: url("tileable-metal-textures-1.jpg");
 }
+
 .page-header {
-  color: blue;
+  color: green;
 }
+
 .col3 {
   color: black;
-}
-.col3{
     background: #6BC0FF;
     text-align: center;
 }
 
-
-}
-.col4 {
-
-}
  footer {
    color: black;
  }
