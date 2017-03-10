@@ -4,8 +4,14 @@
     -ms-box-sizing: border-box;
     box-sizing: border-box;
 }
+/* Header
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 
+.container.head {
+    margin-top: 20px;
+  color: steelblue;
+}
 /* nav
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
