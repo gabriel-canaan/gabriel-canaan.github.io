@@ -26,6 +26,12 @@
     font-size: 14px;
     color: steelblue;
 }
+p {
+  box-sizing: border-box;
+  padding: 4px;
+  margin: 10px;
+
+}
 
 /* wire frames
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
