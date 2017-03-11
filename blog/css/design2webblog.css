@@ -37,14 +37,14 @@ p {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .band.wireframes {
     max-width:150%;
-    color: green;
+    color: black;
     box-sizing: border-box;
     padding: 40px;
     margin: 40 25px;
 
 }
 img{
-    max-width: 150px;
+    max-width: 170px;
 }
 
 
