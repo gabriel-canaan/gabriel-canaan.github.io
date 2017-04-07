@@ -90,7 +90,7 @@ nav.primary ul li:hover>a {
 /* bands background
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .container {
-    background-color: #FFDEAD;
+    background-color:#FFDEAD;
 }
 .band.navigation {
     background-color: #343434;
@@ -127,6 +127,14 @@ section {
 font-size: 14px;
 color: steelblue;
 
+}
+.blog-img {
+  width: 400px; height: 300px; max-width: 100%;
+  display: block;
+  align: center;
+  margin: 20px;
+  padding-top: 10px;
+  padding-left: 37px;
 }
 
 
